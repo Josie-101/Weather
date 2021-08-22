@@ -1,0 +1,105 @@
+.app-container {
+  margin: 40px 0;
+}
+
+h1 {
+  text-align: center;
+  font-size: 50px;
+  font-family: "Roboto", sans-serif;
+  color: rgb(240, 38, 240);
+}
+
+h2,
+h3,
+p {
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+  color: rgb(240, 38, 240);
+}
+
+p {
+  font-size: 25px;
+  font-family: "Roboto", sans-serif;
+  font-weight: bold;
+  color: rgb(240, 38, 240);
+}
+
+li {
+  list-style: none;
+}
+
+button {
+  border-radius: 25px;
+  border: 1px solid azure;
+  background: azure;
+  color: rgb(240, 38, 240);
+  font-size: 16px;
+  font-weight: 600;
+  display: block;
+  margin: 0 auto;
+  line-height: 22px;
+  padding: 10px 24px;
+  text-decoration: none;
+  transition: all 200ms ease;
+  box-shadow: rgba(37, 39, 89, 0.08) 0px 8px 8px 0;
+}
+
+button:hover {
+  cursor: pointer;
+  background: white;
+}
+
+body {
+  background-image: url("Cloud 1.jpg");
+  background-color: aliceblue;
+  background-size: cover;
+}
+
+form {
+  display: block;
+  margin: 0 15 auto 10;
+  text-align: center;
+  padding: 10px 20px;
+  line-height: 50px;
+  size: 40;
+}
+
+.local-temperature {
+  text-align: center;
+  font-size: 40px;
+  color: rgb(240, 38, 240);
+}
+
+.forecast {
+  text-align: center;
+  text-decoration: underline;
+  font-size: 30px;
+  font-weight: bold;
+  font-family: "Roboto", sans-serif;
+  color: rgb(240, 38, 240);
+  padding: 100;
+}
+
+.row {
+  padding: 100;
+  margin-left: 100px;
+  margin-right: 15px;
+}
+
+.day {
+  font-size: 25px;
+  font-weight: bold;
+  font-family: "Roboto", sans-serif;
+  color: rgb(240, 38, 240);
+}
+
+.icon {
+  font-size: 25px;
+}
+
+.temperature {
+  font-size: 20px;
+  font-weight: bold;
+  font-family: "Roboto", sans-serif;
+  color: rgb(240, 38, 240);
+}
