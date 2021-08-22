@@ -52,7 +52,7 @@ button:hover {
 body {
   background-image: url("Cloud 1.jpg");
   background-color: aliceblue;
-  background-size: contain;
+  background-size: cover;
 }
 
 form {
