@@ -103,3 +103,10 @@ form {
   font-family: "Roboto", sans-serif;
   color: rgb(240, 38, 240);
 }
+
+.site-link {
+  font-size: 20px;
+  font-weight: bold;
+  font-family: "Roboto", sans-serif;
+  color: rgb(240, 38, 240);
+}
